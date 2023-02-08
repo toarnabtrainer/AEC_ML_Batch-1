@@ -1,7 +1,7 @@
 # AEC_ML_Batch-1
 
-**GMeet Link:**<br>
-https://meet.google.com/ugx-iskt-vbc
+**Online Session MS-Teams Link for all sessions:**<br>
+https://tinyurl.com/4hnacrps
 
 **Project Group Formation (1) Link for Batch-1:**<br>
 https://bit.ly/3JCZdCx
