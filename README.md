@@ -33,6 +33,6 @@ https://www.onlinegdb.com/
 * Each project should have 3 to 4 ML Model implementations and a comparative study of them in the respective project documentation.<br>
 * All groups should ensure their presence in the project presentation online meetings 30 minutes before to the scheduled slot allotted.<br>
 * Each group should try to appear for project presentation with proper preparations.<br>
-* Wish you all my best wishes for a successful project presentation.<br>
 * On the day of presentation, each group will share a Google Drive link (with any one can access sharable mode) with Project Presentation PPT, Project Documentation PDF and Project Complete Code (IPYNB File), All Dataset Files successfully uploaded.<br>
 * Project Presentation Slots have been shared in Schedule-1 and Schedule-2 PNG files successfully uploaded on GitHub.<br>
+* Wish you all my best wishes for a successful project presentation.<br>
